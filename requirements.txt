@@ -1,7 +1,7 @@
-Flask==2.3.2
-pandas==2.0.2
-scikit-learn==1.2.2
-joblib==1.2.0
-gunicorn==20.1.0  # (optional, for production deployment)
+Flask
+pandas
+scikit-learn
+joblib
+gunicorn  
 cython 
-numpy==1.26.4     # (dependency of scikit-learn and pandas)
+numpy
