@@ -1,8 +1,9 @@
-Flask
+flask
 pandas
 scikit-learn==1.2.2
 joblib
 gunicorn  
 cython 
 numpy
-
+keras
+scipy
