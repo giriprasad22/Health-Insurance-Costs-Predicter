@@ -1,13 +1,7 @@
-flask
-pandas
-cython
+Flask
 numpy
+pandas==2.3.1
+scikit-learn==1.7.1
 scipy
 joblib
-gunicorn  
-keras
-
-
-
-
-
+gunicorn
