@@ -1,9 +1,12 @@
 flask
 pandas
-scikit-learn==1.2.2
+scikit-learn==1.7.1
+cython<3
+numpy==2.3.2
+scipy==1.16.1
+
 joblib
 gunicorn  
-cython 
-numpy
 keras
-scipy
+
+
