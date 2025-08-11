@@ -1,71 +1,72 @@
 # Health-Insurance-Costs-Predicter
-About the Project
-A machine learning web application that predicts individual health insurance costs based on factors like age, gender, BMI, number of children, smoking habits, and region.
+## About the Project
+- A machine learning web application that predicts individual health insurance costs based on factors like age, gender, BMI, number of children, smoking habits, and region.
 
-Designed for users and healthcare analysts to estimate insurance premiums quickly and accurately.
+- Designed for users and healthcare analysts to estimate insurance premiums quickly and accurately.
 
-Built with a lightweight Flask backend and a clean, responsive frontend for seamless interaction.
+- Built with a lightweight Flask backend and a clean, responsive frontend for seamless interaction.
 
-Features
-Predicts health insurance costs using user-provided inputs.
+## Features
+- Predicts health insurance costs using user-provided inputs.
 
-Intuitive form input with validation for features such as age, BMI, smoking status, and region.
+- Intuitive form input with validation for features such as age, BMI, smoking status, and region.
 
-Real-time prediction display upon form submission.
+- Real-time prediction display upon form submission.
 
-Easy-to-use interface with clear result presentation.
+- Easy-to-use interface with clear result presentation.
 
-Deployed as a web app accessible from any device.
+- Deployed as a web app accessible from any device.
 
-Technologies Used
-Python
+## Technologies Used
+- Python
 
-Flask
+- Flask
 
-HTML & CSS
+- HTML & CSS
 
-Machine Learning libraries (e.g., scikit-learn)
+- Machine Learning libraries (e.g., scikit-learn)
 
-Vercel for deployment
+- Render for deployment
 
-Getting Started
-Prerequisites
-Python 3.x installed
+## Getting Started
+## Prerequisites
+- Python 3.x installed
 
-Modern web browser (Chrome, Firefox, Edge, Safari)
+- Modern web browser (Chrome, Firefox, Edge, Safari)
 
-Installation
-Clone the repo:
+## Installation
+- Clone the repo:
 
-bash
-git clone https://github.com/giriprasad22/Health-Insurance-Costs-Predicter.git
-Navigate to the project folder:
+### bash
+- git clone https://github.com/giriprasad22/Health-Insurance-Costs-Predicter.git
 
-bash
-cd Health-Insurance-Costs-Predicter
-Install required Python packages:
+## Navigate to the project folder:
 
-bash
-pip install -r requirements.txt
-Run the Flask app locally:
+### bash
+- cd Health-Insurance-Costs-Predicter
+## Install required Python packages:
 
-bash
-flask run
-Open http://127.0.0.1:5000 in your browser.
+### bash
+- pip install -r requirements.txt
+## Run the Flask app locally:
 
-Usage
-Fill in the input form with your personal health data.
+### bash
+- flask run
+## Open http://127.0.0.1:5000 in your browser.
 
-Submit to see the predicted insurance cost.
+## Usage
+- Fill in the input form with your personal health data.
 
-Adjust inputs as needed for comparative estimates.
+- Submit to see the predicted insurance cost.
 
-Customization
-Modify the trained model or retrain with new datasets in the Python backend.
+- Adjust inputs as needed for comparative estimates.
 
-Update the UI in the HTML and CSS files as desired.
+## Customization
+- Modify the trained model or retrain with new datasets in the Python backend.
 
-Accessibility & Performance
-Simple, clean UI designed to work on desktops and mobile devices.
+- Update the UI in the HTML and CSS files as desired.
 
-Minimal dependencies to ensure fast load and response times.
+## Accessibility & Performance
+- Simple, clean UI designed to work on desktops and mobile devices.
+
+- Minimal dependencies to ensure fast load and response times.
